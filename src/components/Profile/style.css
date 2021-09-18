@@ -1,0 +1,39 @@
+.profile {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width:100%;
+    max-width:1280px;
+  }
+  
+  .profile-background {
+    height:400px;
+    width:100%;
+    border-radius:10px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  @media (min-width:1024px) {
+    .profile-background {
+      height:400px;
+    }
+  }
+  
+  .picture {
+    margin-top:-70px;
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(243, 200, 234);
+    border-radius: 50%;
+  }
+  
+  .name {
+    font-size: 20px;
+  }
+  
+  .description {
+    font-weight: 400;
+    font-size: 16px;
+  }

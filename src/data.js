@@ -54,7 +54,7 @@ export const data = {
         },
         {
           background: portfolioreact,
-          link: "https://git-scm.com/downloads",
+          link: "https://portfoliokeiko.netlify.app/",
           title: "#2 Portfolio"
         },
         {

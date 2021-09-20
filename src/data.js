@@ -4,6 +4,7 @@ import imghc1 from "./assets/HC-D1.jpg";
 import imghc2 from "./assets/HC-D2.jpg";
 import GBD1 from "./assets/GB-D1.jpg";
 import corebizimg from "./assets/corebiz.jpg";
+import portfolioreact from "./assets/portfolioreact.jpg";
 
 export const data = {
   user: {
@@ -51,13 +52,13 @@ export const data = {
           title: "#1 Ecommerce"
         },
         {
-          background: "https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+          background: portfolioreact,
           link: "https://git-scm.com/downloads",
           title: "#2 Portfolio"
         },
         {
           background: "https://images.unsplash.com/photo-1627399270231-7d36245355a9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=70",
-          link: "https://code.visualstudio.com/",
+          link: "https:/",
           title: " #3 ? "
         } 
       ]

@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.css";
-import emailIcon from "/Users/Camila Keiko/DEV/corebiz-react/corebiz-react/src/assets/gmail.svg";
-import githubIcon from "/Users/Camila Keiko/DEV/corebiz-react/corebiz-react/src/assets/github.svg";
-import linkedinIcon from "/Users/Camila Keiko/DEV/corebiz-react/corebiz-react/src/assets/linkedin.svg";
+import emailIcon from "../../assets/gmail.svg";
+import githubIcon from "../../assets/github1.svg";
+import linkedinIcon from "../../assets/linkedin.svg";
 
 const Navigation = ({
   linkedin,

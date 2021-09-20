@@ -5,6 +5,7 @@ import imghc2 from "./assets/HC-D2.jpg";
 import GBD1 from "./assets/GB-D1.jpg";
 import corebizimg from "./assets/corebiz.jpg";
 import portfolioreact from "./assets/portfolioreact.jpg";
+import upmedal from "./assets/upmedal.png";
 
 export const data = {
   user: {
@@ -30,7 +31,7 @@ export const data = {
           description: "Descrição"
         },
         {
-          background: "https://images.unsplash.com/photo-1573495612937-f01934eeaaa7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=70",
+          background: upmedal,
           link: "https://pt-br.reactjs.org/docs/hooks-state.html",
           title: "Desafio#4 Upmedal ecommerce",
           description: "Descrição"
